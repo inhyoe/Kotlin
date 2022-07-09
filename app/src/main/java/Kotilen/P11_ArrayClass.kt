@@ -23,3 +23,5 @@ fun main(array: Array<String>){
     group1.set(1,"sex") // set(index,value)
     println(group1[1])
 }
+
+
